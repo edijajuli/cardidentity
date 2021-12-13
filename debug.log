@@ -1,0 +1,68 @@
+[1206/111409.510:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1206/111409.905:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1206/111409.913:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1206/111424.213:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1206/191521.240:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1206/191522.099:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1206/191522.164:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1206/191542.477:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1207/005910.276:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1207/005912.365:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1207/005912.406:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1207/005928.171:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1207/160805.545:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1207/160806.248:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1207/160806.260:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1207/160820.863:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1207/195612.790:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1207/195613.316:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1207/195613.321:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1207/195627.158:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1208/104017.049:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1208/104017.623:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1208/104017.628:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1208/104020.092:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1208/205819.619:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1208/205820.626:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1208/205820.634:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1208/205832.590:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1208/214756.496:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1208/214757.295:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1208/214757.305:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1208/214814.867:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1208/220959.930:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1208/221000.356:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1208/221000.361:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1208/221006.257:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1209/101233.526:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1209/101234.201:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1209/101234.232:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1209/101255.872:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1209/104945.900:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1209/104946.379:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1209/104946.384:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1209/104959.235:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1209/215310.208:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1209/215310.856:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1209/215310.876:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1209/215326.064:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1210/101959.298:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1210/101959.994:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1210/101959.998:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1210/102017.725:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1211/003605.173:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1211/003605.987:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1211/003606.034:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1211/003614.874:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1211/013200.012:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1211/013200.799:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1211/013200.803:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1211/013214.111:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1211/120306.028:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1211/120306.690:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1211/120306.694:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1211/120323.088:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
+[1211/222425.241:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1211/222425.849:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\Google\Chrome\settings.dat: Access is denied. (0x5)
+[1211/222425.853:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1211/222432.805:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
